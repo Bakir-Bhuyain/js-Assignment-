@@ -1,8 +1,3 @@
-//problem 1
-/**
- * understanding the concept
- **/
-/*function signature/sample */
 function newPrice(currentPrice, discount) {
   //validation test
 
